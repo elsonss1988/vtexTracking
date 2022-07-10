@@ -2,7 +2,6 @@
 
 
 *Original Content by vtex.com*
-# Minimum Boilerplate Theme
 
 
 # Minimum Boilerplate Theme
